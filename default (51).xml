@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <record name="accountToWalletRequest" javaclass="com.wm.data.BasicData">
+      <value name="accountNo">1883426660701</value>
+      <value name="userReference">1775143005</value>
+      <value name="transactionDescription">B2W pilot KB3 150622</value>
+      <value name="amount">112</value>
+      <value name="msisdn">72737665</value>
+      <value name="purposeOfFunds">test</value>
+      <value name="sourceOfFunds">test</value>
+    </record>
+  </record>
+</IDataXMLCoder>
